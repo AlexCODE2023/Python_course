@@ -21,3 +21,16 @@ laboratorio = [
     "Laboratorio E", "Laboratorio F", "Laboratorio G", "Laboratorio H",
     "Laboratorio I", "Laboratorio J"
 ]
+
+medicamentos = [
+    "Paracetamol", "Ibuprofeno", "Amoxicilina", "Diclofenaco", "Aspirina", "Omeprazol", "Metformina",
+    "Losartán", "Atorvastatina", "Loratadina", "Clorfenamina", "Naproxeno", "Salbutamol", "Dexametasona"
+]
+
+categorias = ["Analgésico", "Antibiótico", "Antihistamínico", "Antiácido", "Hipoglucemiante"]
+
+presentaciones = ["Tabletas", "Jarabe", "Inyectable", "Cápsulas", "Suspensión"]
+requiere_receta = ["Sí", "No"]
+vendedores = ["Juan Pérez", "María García", "Carlos Fernández", "Ana López", "Luis Martínez"]
+metodos_pago = ["Efectivo", "Tarjeta", "Seguro"]
+clientes = ["Cliente Frecuente", "Nuevo CLiente", "CLiente VIP", "Sin Registro"]
