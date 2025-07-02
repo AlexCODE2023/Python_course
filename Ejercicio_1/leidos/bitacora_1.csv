@@ -1,0 +1,41 @@
+fecha,hora,actividad,responsable,trabajador,departamento,nro_oficina,observaciones
+2025-07-01,8:15,Actualización de base de datos,Carlos Ruiz,Elena Ríos,Capacitación,367,Finalizado correctamente
+2025-07-01,9:30,Mantenimiento de equipos,Sofía Mendoza,María Torres,Logística,386,Finalizado correctamente
+2025-07-01,10:30,Evaluación de desempeño,Jorge Salas,Luis Gómez,Ventas,255,Se realizó limpieza
+2025-07-01,11:30,Actualización de base de datos,Lucía Vargas,Luis Gómez,Logística,309,Pendiente de aprobación
+2025-07-01,12:15,Revisión de documentos,Lucía Vargas,María Torres,Marketing,366,Se realizó limpieza
+2025-07-02,13:00,Actualización de base de datos,Carlos Ruiz,Juan Castro,Operaciones,178,Pendiente de aprobación
+2025-07-02,14:00,Inventario de materiales,Carlos Ruiz,Pedro Díaz,Capacitación,209,Pendiente de aprobación
+2025-07-02,15:30,Evaluación de desempeño,Lucía Vargas,Pedro Díaz,Marketing,177,Se realizó limpieza
+2025-07-02,16:15,Capacitación interna,Lucía Vargas,Elena Ríos,Contabilidad,379,Pendiente de aprobación
+2025-07-02,17:00,Revisión de documentos,Lucía Vargas,Juan Castro,Capacitación,331,Se realizó limpieza
+2025-07-03,8:30,Actualización de base de datos,Sofía Mendoza,Elena Ríos,Sistemas,300,Sin novedades
+2025-07-03,9:00,Evaluación de desempeño,Carlos Ruiz,María Torres,Capacitación,123,Finalizado correctamente
+2025-07-03,10:30,Mantenimiento de equipos,Ana Pérez,María Torres,Logística,283,Se realizó limpieza
+2025-07-03,11:45,Reunión de planificación,Ana Pérez,Elena Ríos,Marketing,374,Pendiente de aprobación
+2025-07-03,12:30,Actualización de base de datos,Carlos Ruiz,Pedro Díaz,Contabilidad,395,Finalizado correctamente
+2025-07-04,13:45,Mantenimiento de equipos,Sofía Mendoza,Elena Ríos,Operaciones,246,Se realizó limpieza
+2025-07-04,14:30,Evaluación de desempeño,Sofía Mendoza,Elena Ríos,Sistemas,399,Se realizó limpieza
+2025-07-04,15:15,Reunión de planificación,Ana Pérez,Juan Castro,Capacitación,136,Tema: Seguridad informática
+2025-07-04,16:15,Evaluación de desempeño,Jorge Salas,Pedro Díaz,Sistemas,149,Finalizado correctamente
+2025-07-04,17:15,Supervisión de proyectos,Carlos Ruiz,Elena Ríos,Capacitación,144,Trabajo en equipo
+2025-07-05,8:15,Capacitación interna,Carlos Ruiz,Pedro Díaz,Ventas,306,Se definieron tareas
+2025-07-05,9:15,Revisión de documentos,Lucía Vargas,Pedro Díaz,Operaciones,113,Trabajo en equipo
+2025-07-05,10:45,Atención a clientes,Carlos Ruiz,Luis Gómez,Logística,287,Requiere seguimiento
+2025-07-05,11:15,Supervisión de proyectos,Sofía Mendoza,Luis Gómez,Sistemas,261,Se realizó limpieza
+2025-07-05,12:45,Reunión de planificación,Jorge Salas,Pedro Díaz,Capacitación,369,Sin novedades
+2025-07-06,13:30,Reunión de planificación,Sofía Mendoza,Pedro Díaz,Ventas,342,Pendiente de aprobación
+2025-07-06,14:45,Reunión de planificación,Carlos Ruiz,Elena Ríos,Sistemas,314,Requiere seguimiento
+2025-07-06,15:45,Actualización de base de datos,Jorge Salas,Pedro Díaz,Logística,213,Sin novedades
+2025-07-06,16:00,Revisión de documentos,Sofía Mendoza,Juan Castro,Ventas,156,Se definieron tareas
+2025-07-06,17:45,Elaboración de informes,Lucía Vargas,Pedro Díaz,Operaciones,144,Trabajo en equipo
+2025-07-07,8:00,Evaluación de desempeño,Carlos Ruiz,Elena Ríos,Marketing,292,Sin novedades
+2025-07-07,9:30,Supervisión de proyectos,Jorge Salas,María Torres,Contabilidad,215,Trabajo en equipo
+2025-07-07,10:45,Capacitación interna,Lucía Vargas,Elena Ríos,Contabilidad,157,Pendiente de aprobación
+2025-07-07,11:15,Revisión de documentos,Sofía Mendoza,Juan Castro,Logística,338,Finalizado correctamente
+2025-07-07,12:00,Elaboración de informes,Sofía Mendoza,María Torres,Marketing,365,Pendiente de aprobación
+2025-07-08,13:00,Revisión de documentos,Ana Pérez,Luis Gómez,Contabilidad,257,Tema: Seguridad informática
+2025-07-08,14:45,Inventario de materiales,Ana Pérez,Juan Castro,Capacitación,160,Tema: Seguridad informática
+2025-07-08,15:15,Supervisión de proyectos,Lucía Vargas,Elena Ríos,Sistemas,274,Sin novedades
+2025-07-08,16:30,Capacitación interna,Sofía Mendoza,Luis Gómez,Marketing,114,Trabajo en equipo
+2025-07-08,17:30,Actualización de base de datos,Lucía Vargas,Juan Castro,Recursos Humanos,251,Sin novedades

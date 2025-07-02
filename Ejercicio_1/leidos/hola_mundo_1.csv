@@ -1,0 +1,41 @@
+fecha,hora,actividad,responsable,trabajador,departamento,nro_oficina,observaciones
+2025-07-01,8:45,Reunión de planificación,Jorge Salas,Elena Ríos,Operaciones,197,Requiere seguimiento
+2025-07-01,9:15,Reunión de planificación,Carlos Ruiz,Juan Castro,Ventas,262,Tema: Seguridad informática
+2025-07-01,10:15,Revisión de documentos,Ana Pérez,Pedro Díaz,Recursos Humanos,383,Tema: Seguridad informática
+2025-07-01,11:30,Evaluación de desempeño,Ana Pérez,María Torres,Contabilidad,363,Tema: Seguridad informática
+2025-07-01,12:45,Atención a clientes,Sofía Mendoza,Elena Ríos,Contabilidad,217,Requiere seguimiento
+2025-07-02,13:00,Mantenimiento de equipos,Ana Pérez,Pedro Díaz,Capacitación,378,Trabajo en equipo
+2025-07-02,14:30,Reunión de planificación,Ana Pérez,María Torres,Operaciones,299,Se definieron tareas
+2025-07-02,15:45,Evaluación de desempeño,Carlos Ruiz,Juan Castro,Sistemas,335,Pendiente de aprobación
+2025-07-02,16:30,Elaboración de informes,Sofía Mendoza,Elena Ríos,Ventas,248,Pendiente de aprobación
+2025-07-02,17:15,Elaboración de informes,Jorge Salas,Luis Gómez,Capacitación,383,Finalizado correctamente
+2025-07-03,8:15,Inventario de materiales,Carlos Ruiz,María Torres,Logística,118,Sin novedades
+2025-07-03,9:45,Elaboración de informes,Ana Pérez,María Torres,Recursos Humanos,342,Se realizó limpieza
+2025-07-03,10:45,Inventario de materiales,Carlos Ruiz,María Torres,Operaciones,162,Finalizado correctamente
+2025-07-03,11:45,Revisión de documentos,Ana Pérez,Luis Gómez,Capacitación,206,Pendiente de aprobación
+2025-07-03,12:45,Capacitación interna,Sofía Mendoza,Elena Ríos,Recursos Humanos,256,Se realizó limpieza
+2025-07-04,13:00,Reunión de planificación,Lucía Vargas,Elena Ríos,Operaciones,234,Sin novedades
+2025-07-04,14:45,Evaluación de desempeño,Jorge Salas,María Torres,Marketing,378,Se realizó limpieza
+2025-07-04,15:45,Revisión de documentos,Lucía Vargas,Pedro Díaz,Sistemas,393,Tema: Seguridad informática
+2025-07-04,16:15,Reunión de planificación,Carlos Ruiz,María Torres,Capacitación,203,Finalizado correctamente
+2025-07-04,17:30,Elaboración de informes,Sofía Mendoza,Elena Ríos,Marketing,197,Finalizado correctamente
+2025-07-05,8:45,Evaluación de desempeño,Ana Pérez,Pedro Díaz,Sistemas,184,Se realizó limpieza
+2025-07-05,9:30,Atención a clientes,Lucía Vargas,Elena Ríos,Operaciones,132,Se realizó limpieza
+2025-07-05,10:30,Supervisión de proyectos,Lucía Vargas,Luis Gómez,Contabilidad,291,Pendiente de aprobación
+2025-07-05,11:15,Reunión de planificación,Jorge Salas,Elena Ríos,Ventas,200,Finalizado correctamente
+2025-07-05,12:30,Reunión de planificación,Carlos Ruiz,Luis Gómez,Ventas,133,Requiere seguimiento
+2025-07-06,13:15,Mantenimiento de equipos,Carlos Ruiz,Elena Ríos,Contabilidad,186,Trabajo en equipo
+2025-07-06,14:15,Inventario de materiales,Sofía Mendoza,Luis Gómez,Recursos Humanos,155,Requiere seguimiento
+2025-07-06,15:00,Inventario de materiales,Ana Pérez,María Torres,Ventas,364,Tema: Seguridad informática
+2025-07-06,16:45,Revisión de documentos,Sofía Mendoza,Elena Ríos,Logística,312,Sin novedades
+2025-07-06,17:30,Capacitación interna,Sofía Mendoza,Elena Ríos,Sistemas,397,Se definieron tareas
+2025-07-07,8:15,Evaluación de desempeño,Carlos Ruiz,Pedro Díaz,Recursos Humanos,345,Tema: Seguridad informática
+2025-07-07,9:15,Inventario de materiales,Sofía Mendoza,Pedro Díaz,Logística,222,Se realizó limpieza
+2025-07-07,10:00,Capacitación interna,Jorge Salas,Juan Castro,Contabilidad,135,Pendiente de aprobación
+2025-07-07,11:15,Inventario de materiales,Jorge Salas,Pedro Díaz,Capacitación,334,Trabajo en equipo
+2025-07-07,12:15,Revisión de documentos,Ana Pérez,Pedro Díaz,Ventas,204,Se realizó limpieza
+2025-07-08,13:15,Atención a clientes,Carlos Ruiz,Luis Gómez,Ventas,328,Trabajo en equipo
+2025-07-08,14:15,Capacitación interna,Ana Pérez,Luis Gómez,Ventas,190,Tema: Seguridad informática
+2025-07-08,15:15,Capacitación interna,Ana Pérez,María Torres,Contabilidad,174,Se realizó limpieza
+2025-07-08,16:45,Supervisión de proyectos,Sofía Mendoza,Luis Gómez,Logística,376,Se definieron tareas
+2025-07-08,17:30,Actualización de base de datos,Sofía Mendoza,Juan Castro,Ventas,269,Pendiente de aprobación

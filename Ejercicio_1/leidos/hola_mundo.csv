@@ -1,0 +1,41 @@
+fecha,hora,actividad,responsable,trabajador,departamento,nro_oficina,observaciones
+2025-07-01,8:30,Inventario de materiales,Jorge Salas,Luis Gómez,Ventas,379,Requiere seguimiento
+2025-07-01,9:30,Supervisión de proyectos,Lucía Vargas,Elena Ríos,Logística,259,Finalizado correctamente
+2025-07-01,10:15,Revisión de documentos,Ana Pérez,Juan Castro,Contabilidad,131,Requiere seguimiento
+2025-07-01,11:00,Reunión de planificación,Sofía Mendoza,María Torres,Logística,272,Finalizado correctamente
+2025-07-01,12:00,Evaluación de desempeño,Sofía Mendoza,Luis Gómez,Contabilidad,278,Se definieron tareas
+2025-07-02,13:45,Atención a clientes,Lucía Vargas,Pedro Díaz,Marketing,106,Requiere seguimiento
+2025-07-02,14:45,Atención a clientes,Carlos Ruiz,Juan Castro,Recursos Humanos,149,Requiere seguimiento
+2025-07-02,15:15,Revisión de documentos,Sofía Mendoza,María Torres,Sistemas,285,Finalizado correctamente
+2025-07-02,16:00,Capacitación interna,Sofía Mendoza,Juan Castro,Recursos Humanos,150,Finalizado correctamente
+2025-07-02,17:15,Atención a clientes,Carlos Ruiz,Elena Ríos,Recursos Humanos,245,Se definieron tareas
+2025-07-03,8:30,Elaboración de informes,Carlos Ruiz,Juan Castro,Ventas,380,Tema: Seguridad informática
+2025-07-03,9:15,Actualización de base de datos,Carlos Ruiz,Pedro Díaz,Operaciones,193,Pendiente de aprobación
+2025-07-03,10:30,Mantenimiento de equipos,Carlos Ruiz,María Torres,Operaciones,237,Finalizado correctamente
+2025-07-03,11:30,Atención a clientes,Ana Pérez,Elena Ríos,Operaciones,395,Tema: Seguridad informática
+2025-07-03,12:00,Inventario de materiales,Sofía Mendoza,Pedro Díaz,Ventas,274,Se definieron tareas
+2025-07-04,13:30,Revisión de documentos,Sofía Mendoza,Juan Castro,Marketing,143,Pendiente de aprobación
+2025-07-04,14:30,Capacitación interna,Carlos Ruiz,Luis Gómez,Sistemas,311,Sin novedades
+2025-07-04,15:30,Atención a clientes,Lucía Vargas,Pedro Díaz,Sistemas,152,Trabajo en equipo
+2025-07-04,16:30,Evaluación de desempeño,Carlos Ruiz,María Torres,Logística,266,Trabajo en equipo
+2025-07-04,17:30,Inventario de materiales,Jorge Salas,Elena Ríos,Contabilidad,227,Requiere seguimiento
+2025-07-05,8:45,Supervisión de proyectos,Carlos Ruiz,Pedro Díaz,Contabilidad,110,Pendiente de aprobación
+2025-07-05,9:00,Supervisión de proyectos,Carlos Ruiz,Juan Castro,Ventas,140,Tema: Seguridad informática
+2025-07-05,10:15,Inventario de materiales,Sofía Mendoza,María Torres,Operaciones,222,Sin novedades
+2025-07-05,11:00,Atención a clientes,Carlos Ruiz,María Torres,Sistemas,174,Pendiente de aprobación
+2025-07-05,12:00,Capacitación interna,Sofía Mendoza,Juan Castro,Logística,359,Requiere seguimiento
+2025-07-06,13:00,Reunión de planificación,Sofía Mendoza,Juan Castro,Operaciones,202,Finalizado correctamente
+2025-07-06,14:00,Actualización de base de datos,Jorge Salas,Juan Castro,Capacitación,168,Requiere seguimiento
+2025-07-06,15:45,Capacitación interna,Ana Pérez,Luis Gómez,Operaciones,391,Sin novedades
+2025-07-06,16:15,Supervisión de proyectos,Carlos Ruiz,Pedro Díaz,Marketing,195,Se definieron tareas
+2025-07-06,17:00,Supervisión de proyectos,Lucía Vargas,María Torres,Ventas,176,Finalizado correctamente
+2025-07-07,8:15,Reunión de planificación,Lucía Vargas,Luis Gómez,Marketing,192,Tema: Seguridad informática
+2025-07-07,9:00,Reunión de planificación,Sofía Mendoza,María Torres,Operaciones,383,Trabajo en equipo
+2025-07-07,10:00,Evaluación de desempeño,Jorge Salas,Luis Gómez,Sistemas,329,Pendiente de aprobación
+2025-07-07,11:45,Mantenimiento de equipos,Ana Pérez,Luis Gómez,Sistemas,107,Tema: Seguridad informática
+2025-07-07,12:45,Inventario de materiales,Sofía Mendoza,María Torres,Sistemas,107,Tema: Seguridad informática
+2025-07-08,13:15,Revisión de documentos,Carlos Ruiz,Elena Ríos,Logística,264,Finalizado correctamente
+2025-07-08,14:30,Revisión de documentos,Sofía Mendoza,Elena Ríos,Sistemas,131,Se definieron tareas
+2025-07-08,15:30,Atención a clientes,Sofía Mendoza,Luis Gómez,Recursos Humanos,102,Tema: Seguridad informática
+2025-07-08,16:30,Atención a clientes,Lucía Vargas,Luis Gómez,Sistemas,302,Tema: Seguridad informática
+2025-07-08,17:30,Mantenimiento de equipos,Carlos Ruiz,Elena Ríos,Marketing,340,Trabajo en equipo
