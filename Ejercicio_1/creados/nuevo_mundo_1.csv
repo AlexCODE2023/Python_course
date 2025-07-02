@@ -1,0 +1,41 @@
+fecha,hora,actividad,responsable,trabajador,departamento,nro_oficina,observaciones
+2025-07-01,8:30,Reunión de planificación,Ana Pérez,Juan Castro,Recursos Humanos,133,Finalizado correctamente
+2025-07-01,9:15,Revisión de documentos,Jorge Salas,Luis Gómez,Logística,105,Sin novedades
+2025-07-01,10:45,Actualización de base de datos,Jorge Salas,Elena Ríos,Sistemas,377,Finalizado correctamente
+2025-07-01,11:30,Atención a clientes,Jorge Salas,Juan Castro,Contabilidad,299,Tema: Seguridad informática
+2025-07-01,12:15,Supervisión de proyectos,Lucía Vargas,Juan Castro,Logística,100,Pendiente de aprobación
+2025-07-02,13:30,Evaluación de desempeño,Jorge Salas,Luis Gómez,Sistemas,350,Pendiente de aprobación
+2025-07-02,14:15,Elaboración de informes,Jorge Salas,María Torres,Logística,222,Requiere seguimiento
+2025-07-02,15:30,Inventario de materiales,Sofía Mendoza,Juan Castro,Logística,304,Se definieron tareas
+2025-07-02,16:15,Capacitación interna,Sofía Mendoza,María Torres,Logística,280,Requiere seguimiento
+2025-07-02,17:00,Actualización de base de datos,Jorge Salas,María Torres,Contabilidad,284,Se definieron tareas
+2025-07-03,8:15,Supervisión de proyectos,Sofía Mendoza,María Torres,Logística,391,Trabajo en equipo
+2025-07-03,9:00,Evaluación de desempeño,Carlos Ruiz,Juan Castro,Sistemas,301,Trabajo en equipo
+2025-07-03,10:00,Mantenimiento de equipos,Jorge Salas,Elena Ríos,Contabilidad,202,Requiere seguimiento
+2025-07-03,11:00,Mantenimiento de equipos,Sofía Mendoza,Juan Castro,Capacitación,350,Tema: Seguridad informática
+2025-07-03,12:45,Mantenimiento de equipos,Sofía Mendoza,Juan Castro,Capacitación,163,Tema: Seguridad informática
+2025-07-04,13:30,Capacitación interna,Ana Pérez,Elena Ríos,Operaciones,375,Requiere seguimiento
+2025-07-04,14:00,Evaluación de desempeño,Jorge Salas,Pedro Díaz,Logística,317,Sin novedades
+2025-07-04,15:15,Atención a clientes,Lucía Vargas,Pedro Díaz,Contabilidad,116,Pendiente de aprobación
+2025-07-04,16:00,Supervisión de proyectos,Lucía Vargas,Elena Ríos,Sistemas,380,Pendiente de aprobación
+2025-07-04,17:15,Reunión de planificación,Carlos Ruiz,Luis Gómez,Recursos Humanos,368,Pendiente de aprobación
+2025-07-05,8:45,Reunión de planificación,Jorge Salas,María Torres,Recursos Humanos,184,Pendiente de aprobación
+2025-07-05,9:00,Evaluación de desempeño,Carlos Ruiz,Pedro Díaz,Logística,377,Tema: Seguridad informática
+2025-07-05,10:30,Actualización de base de datos,Ana Pérez,Juan Castro,Logística,269,Sin novedades
+2025-07-05,11:00,Revisión de documentos,Sofía Mendoza,Elena Ríos,Contabilidad,397,Trabajo en equipo
+2025-07-05,12:00,Capacitación interna,Lucía Vargas,María Torres,Sistemas,121,Se definieron tareas
+2025-07-06,13:45,Reunión de planificación,Carlos Ruiz,Juan Castro,Marketing,178,Se definieron tareas
+2025-07-06,14:15,Supervisión de proyectos,Carlos Ruiz,Juan Castro,Marketing,320,Requiere seguimiento
+2025-07-06,15:15,Evaluación de desempeño,Ana Pérez,Luis Gómez,Marketing,318,Requiere seguimiento
+2025-07-06,16:00,Evaluación de desempeño,Ana Pérez,Pedro Díaz,Capacitación,317,Tema: Seguridad informática
+2025-07-06,17:30,Atención a clientes,Carlos Ruiz,Luis Gómez,Ventas,167,Finalizado correctamente
+2025-07-07,8:15,Supervisión de proyectos,Ana Pérez,María Torres,Sistemas,251,Pendiente de aprobación
+2025-07-07,9:00,Revisión de documentos,Sofía Mendoza,María Torres,Logística,281,Tema: Seguridad informática
+2025-07-07,10:15,Reunión de planificación,Carlos Ruiz,Elena Ríos,Operaciones,263,Pendiente de aprobación
+2025-07-07,11:15,Revisión de documentos,Ana Pérez,María Torres,Recursos Humanos,399,Se realizó limpieza
+2025-07-07,12:30,Elaboración de informes,Jorge Salas,Luis Gómez,Contabilidad,285,Trabajo en equipo
+2025-07-08,13:15,Mantenimiento de equipos,Carlos Ruiz,María Torres,Ventas,145,Se realizó limpieza
+2025-07-08,14:00,Capacitación interna,Jorge Salas,Pedro Díaz,Logística,195,Requiere seguimiento
+2025-07-08,15:15,Evaluación de desempeño,Ana Pérez,María Torres,Capacitación,299,Requiere seguimiento
+2025-07-08,16:00,Reunión de planificación,Jorge Salas,Elena Ríos,Recursos Humanos,250,Se realizó limpieza
+2025-07-08,17:30,Evaluación de desempeño,Lucía Vargas,Luis Gómez,Recursos Humanos,240,Trabajo en equipo
