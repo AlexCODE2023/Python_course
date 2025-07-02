@@ -82,3 +82,6 @@ while(contador <= limite ):
     generar_excel_pormes(contador)
 
     contador = contador + 1
+
+# la tarea essta encrpipta #da debo pedir intruccion del profesor
+# No entendi ni michi de la tarea, pero hice lo que pude

@@ -33,3 +33,8 @@ dataStruct = {
 
 
 dataStruct["nombre"].append("Juan")
+
+# Hacer prubas de codigo
+print("hello world")
+# Esto es un comentario
+# Nuestro hola mundo en Python
